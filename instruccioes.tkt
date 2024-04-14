@@ -1,0 +1,5 @@
+1.crear el repo local (directorio/file.py)
+2.inicializar el repo local = git
+3.crear el repositorio online
+4.sincronizar con el repo en github = git git remote add origin https://github.com/Thunderiano/proyecto_ipp.git
+5.crear el ambiente virtual
